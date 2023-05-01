@@ -1,0 +1,35 @@
+/* styles.css */
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #666;
+  padding-bottom: 5px;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.contact-info {
+  font-style: italic;
+}
